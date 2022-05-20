@@ -2,6 +2,7 @@
 - 👀 I’m interested in code and tech
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to start my career as a software developer
+- 💻 I'm sharing my codes here to track my progress 
 
 <!---
 sepidsoroush/sepidsoroush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
