@@ -1,9 +1,19 @@
+export const SepidehSoroush = { 
+ 
+  pronouns: ['she', 'her'],
+  langs: ['JavaScript', 'HTML', 'CSS'],
+  tools: ['React', 'Redux'],
+  experienceYear: 1,
+  background: 'Bachelor and master of Industrial engineering and 5 years in project management field’ ,
+  challenge: 'Learning as much as I can!'
+};
+
+
 - 👋 Hi, I’m @sepidsoroush
 - 👀 I’m interested in code and tech
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to start my career as a software developer
 - 💻 I'm sharing my codes here to track my progress 
-- 🎊 This is my first HTML code I created on 2022/02/02 🎊
 
 <!---
 sepidsoroush/sepidsoroush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
