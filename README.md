@@ -1,5 +1,4 @@
 export const SepidehSoroush = { 
- 
   pronouns: ['she', 'her'],
   langs: ['JavaScript', 'HTML', 'CSS'],
   tools: ['React', 'Redux'],
