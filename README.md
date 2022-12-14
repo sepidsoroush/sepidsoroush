@@ -1,12 +1,11 @@
-export const SepidehSoroush = { 
- 
-  pronouns: ['she', 'her'],
-  langs: ['JavaScript', 'HTML', 'CSS'],
-  tools: ['React', 'Redux'],
-  experieceYear: 1,
-  background: 'Bachelor and master of Industrial engineering and 5 years in project management field' ,
-  challenge: 'Learning as much as I can!'
-}
+	export const SepidehSoroush = { 
+	  pronouns: ['she', 'her'],
+	  langs: ['JavaScript', 'HTML', 'CSS'],
+	  tools: ['React', 'Redux'],
+	  IexperieceYear: 1,
+	  background: 'Bachelor and master of Industrial engineering and 5 years in project management field' , 
+	  challenge: 'Learning as much as I can!'
+	}
 
 - 👋 Hi, I’m @sepidsoroush
 - 👀 I’m interested in code and tech
