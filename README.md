@@ -2,7 +2,7 @@
 	  pronouns: ['she', 'her'],
 	  langs: ['JavaScript', 'HTML', 'CSS'],
 	  tools: ['React', 'Redux'],
-	  IexperieceYear: 1,
+	  experieceYear: 1,
 	  background: 'Bachelor and master of Industrial engineering and 5 years in project management field' , 
 	  challenge: 'Learning as much as I can!'
 	}
