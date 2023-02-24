@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @sepidsoroush
 - 👀 I’m interested in code and tech
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to start my career as a software developer
+- 🌱 I’m currently learning JavaScript, React and Redux
+- 💞️ I’m looking to start my career as a frontend developer
 - 💻 I'm sharing my codes here to track my progress 
 
 <!---
