@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @sepidsoroush
 - 👀 I’m interested in code and tech
-- 🌱 I’m currently learning JavaScript, React and Redux
+- 🌱 I’m currently learning Typescript and Redux
 - 💞️ I’m looking to start my career as a frontend developer
 - 💻 I'm sharing my codes here to track my progress 
 
