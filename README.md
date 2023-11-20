@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @sepidsoroush
 - 👀 I’m interested in code and tech
-- 🌱 I’m currently learning Jest.
+- 🌱 I’m currently learning Jest and Go.
 - 💞️ I’m looking to start my career as a frontend developer
 - 💻 I'm sharing my codes here to track my progress 
 - 📫 How to reach me: [Email me](mailto:s.soroush2012@gmail.com) or [check my Linkedin](https://www.linkedin.com/in/sepidehsoroush/)
