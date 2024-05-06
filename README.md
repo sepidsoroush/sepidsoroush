@@ -2,7 +2,7 @@
 
 - 🇪🇪 A front-end developer based in Tallinn Estonia.
 - 👀 I’m interested in code, tech, and learning new stuff.
-- 🌱 Currently, I’m learning React Native, Go, and Ruby on Rails.
+- 🌱 Currently, I’m learning React Native, and Jest.
 - 👩‍💻 I’m looking to start my career as a frontend developer.
 - 💞️ I'm sharing my codes here to track my progress.
 
@@ -16,7 +16,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -26,14 +25,9 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## 📫 How to reach me:
-<div id="badges">
-    <a href="mailto:s.soroush2012@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/sepidehsoroush">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge"/>
-    </a>
-</div>
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:s.soroush2012@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sepidehsoroush)
 
 
 <!---
