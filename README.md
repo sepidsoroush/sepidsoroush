@@ -1,12 +1,11 @@
 ## Hey there, I’m Sepideh
 
-- 👩‍💻 A front-end developer based in Tallinn Estonia.
-- 👀 Interested in solving problems and learning new stuff along the way.
-- 🌱 I'm sharing my codes here to track my progress.
-- 💬 Would love to discuss open source or collaboration opportunities.
-
-Let's Connect
-[LinkedIn](https://www.linkedin.com/in/sepidehsoroush/)
+- 👩‍💻 Frontend developer based in Tallinn, Estonia
+- ✿ Developed [Saffron](https://www.applifted.work/saffron) from idea to reality 
+- 🚀 Interested in solving problems and learning new stuff along the way
+- 🌱 Sharing my codes here to document my journey and growth
+- 💬 Would love to discuss open source or collaboration opportunities
+- 📌 Let's Connect [LinkedIn](https://www.linkedin.com/in/sepidehsoroush/)
 
 
 **💻 Tools I usually use**
