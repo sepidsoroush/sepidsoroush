@@ -1,7 +1,7 @@
 ## Hey there, I’m Sepideh
 
 - 👩‍💻 Frontend developer based in Tallinn, Estonia
-- ✿ Developed [Saffron](https://www.applifted.work/saffron) from idea to reality 
+- 📱 Developed [Saffron](https://saffron.applifted.work) and [Crispy pixels](https://vectors.applifted.work/) from idea to reality 
 - 🚀 Interested in solving problems and learning new stuff along the way
 - 🌱 Sharing my codes here to document my journey and growth
 - 💬 Would love to discuss open source or collaboration opportunities
