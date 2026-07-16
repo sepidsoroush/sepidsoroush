@@ -1,6 +1,6 @@
 ## Hey there, I’m Sepideh
 
-- 👩‍💻 Frontend developer based in Tallinn, Estonia
+- 👩‍💻 Frontend developer based in London
 - 📱 Developed [Saffron](https://saffron.ee) and [Crispy duck](https://vectors.applifted.work/) from idea to reality 
 - 🚀 Interested in solving problems and learning new stuff along the way
 - 🌱 Sharing my codes here to document my journey and growth
