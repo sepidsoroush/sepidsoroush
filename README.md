@@ -1,7 +1,8 @@
 ## Hey there, I’m Sepideh
 
 - 👩‍💻 Frontend developer based in London
-- 📱 Developed [Saffron](https://saffron.ee) and [Crispy duck](https://vectors.applifted.work/) from idea to reality 
+- 📱 Developed [Saffron](https://saffron.ee) and [Crispy duck](https://vectors.applifted.work/) from idea to reality
+- 🧩 Maintainer of [lucide-extended](https://github.com/applifted/lucide-extended), an **open source** library of filled and duotone Lucide-compatible icons
 - 🚀 Interested in solving problems and learning new stuff along the way
 - 🌱 Sharing my codes here to document my journey and growth
 - 💬 Would love to discuss open source or collaboration opportunities
