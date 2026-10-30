@@ -1,24 +1,32 @@
 ## Hey there, I’m Sepideh
 
-- 👩‍💻 Developer and builder based in London
-- 📱 Developed [Saffron](https://saffron.ee) and [Crispy duck](https://vectors.applifted.work/) from idea to reality
-- 🧩 Maintainer of [lucide-extended](https://github.com/applifted/lucide-extended), an **open source** library of filled and duotone Lucide-compatible icons
-- 🚀 Interested in solving problems and learning new stuff along the way
-- 🌱 Sharing my codes here to document my journey and growth
-- 💬 Would love to discuss open source or collaboration opportunities
-- 📌 Let's Connect [LinkedIn](https://www.linkedin.com/in/sepidehsoroush/)
+Product engineer in London. I develop, build and ship AI-powered products end to end at Applifted, a two-person product studio.
+
+## What I'm working on
+- [**Crispy Duck**](https://crispyduck.app/): Hand-drawn vectors in the brush and style you want, ready for Figma or your code.
+- [**lucide-extended**](https://github.com/applifted/lucide-extended): open-source filled and duotone versions of Lucide icons for React.
+- [**Saffron**](https://saffron.ee): a meal planner with AI recipe import from links, photos and YouTube. Web app live, native iOS version in development.
 
 
 **💻 Tools I usually use**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) 
+![Stripe](https://img.shields.io/badge/Stripe-5851DD?style=for-the-badge&logo=stripe&logoColor=white) 
 
+
+## Elsewhere
+
+[Portfolio](https://sepidev.com) · [LinkedIn](https://www.linkedin.com/in/sepidehsoroush/) · [X](https://x.com/iamsepid) · [Bluesky](https://bsky.app/profile/iamsepid.bsky.social)
 
 <!---
 sepidsoroush/sepidsoroush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
