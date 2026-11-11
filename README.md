@@ -3,8 +3,8 @@
 Product engineer in London. I develop, build and ship AI-powered products end to end at Applifted, a two-person product studio.
 
 ## What I'm working on
-- [**Crispy Duck**](https://crispyduck.app/): Hand-drawn vectors in the brush and style you want, ready for Figma or your code.
-- [**lucide-extended**](https://github.com/applifted/lucide-extended): open-source filled and duotone versions of Lucide icons for React.
+- [**Crispy Duck**](https://crispyduck.app/): Library of 2,100+ hand-drawn vector shapes and illustrations for any design tool or codebase.
+- [**lucide-extended**](https://github.com/applifted/lucide-extended): Open-source filled and duotone version of Lucide icons for every framework Lucide supports (10 packages, 2,900 icons)
 - [**Saffron**](https://saffron.ee): a meal planner with AI recipe import from links, photos and YouTube. Web app live, native iOS version in development.
 
 
